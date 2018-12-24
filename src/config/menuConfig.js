@@ -8,8 +8,8 @@ const menuList = [
     key: '/admin/ui',
     children: [
       {
-        title: '首頁',
-        key: '/admin/home1'
+        title: '按鈕',
+        key: '/admin/ui/buttons'
       },
       {
         title: '首頁',
